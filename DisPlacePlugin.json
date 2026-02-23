@@ -2,7 +2,7 @@
   "Author": "Drakansoul，枫林月影",
   "Name": "DisPlace 房屋复制插件",
   "InternalName": "DisPlacePlugin",
-  "AssemblyVersion":"7.4.0",
+  "AssemblyVersion":"7.4.1",
   "Punchline": "在任意房屋中自动保存和加载家具布局。",
   "Description": "自动保存和加载房屋家具的位置。复制其他房屋的布局。导入/导出 MakePlace 程序的布局文件。",
   "ApplicableVersion": "any",
@@ -19,9 +19,9 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/icon.png",
   "DownloadCount": 0,
-  "DownloadLinkInstall": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.0/latest.zip",
-  "DownloadLinkTesting": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.0/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.0/latest.zip",
+  "DownloadLinkInstall": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
   "_isDip17Plugin": false,
   "_Dip17Channel": null
 }]
