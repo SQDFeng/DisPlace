@@ -20,7 +20,7 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/icon.png",
   "ImageUrls": [
-    "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/yulan.png"
+    "https://raw.githubusercontent.com/SQDFeng/DisPlace/refs/heads/main/yulan.png"
   ],
   "DownloadCount": 2,
   "DownloadLinkInstall": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
