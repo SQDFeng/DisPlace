@@ -18,7 +18,9 @@
   "DalamudApiLevel": 14,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/icon.png",
-  "ImageUrls": ["https://raw.githubusercontent.com/SQDFeng/DisPlace/master/yulan.png"],
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/yulan.png"
+  ],
   "DownloadCount": 0,
   "DownloadLinkInstall": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
   "DownloadLinkTesting": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
