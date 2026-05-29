@@ -16,7 +16,7 @@
     "drakansoul",
     "displace"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/res/icon.png",
   "ImageUrls": [
