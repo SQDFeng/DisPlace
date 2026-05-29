@@ -3,7 +3,7 @@
   "Author": "Drakansoul，枫林月影(汉化)",
   "Name": "DisPlace 房屋装修插件",
   "InternalName": "DisPlacePlugin",
-  "AssemblyVersion":"7.4.1",
+  "AssemblyVersion":"7.5.1",
   "Punchline": "在任意房屋中自动保存和加载家具装修布局。",
   "Description": "自动保存和加载房屋家具的位置。复制其他房屋的布局。导入/导出 MakePlace 程序的布局文件。",
   "ApplicableVersion": "any",
@@ -23,8 +23,8 @@
     "https://raw.githubusercontent.com/SQDFeng/DisPlace/master/res/yulan.png"
   ],
   "DownloadCount": 2,
-  "DownloadLinkInstall": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
-  "DownloadLinkTesting": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
+  "DownloadLinkInstall": "https://github.com/SQDFeng/DisPlace/releases/download/v7.5.1/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SQDFeng/DisPlace/releases/download/v7.5.1/latest.zip",
   "DownloadLinkUpdate": "https://github.com/SQDFeng/DisPlace/releases/download/v7.4.1/latest.zip",
   "Changelog": "修复偏移量\n仅此",
   "LastUpdate": 20260223
